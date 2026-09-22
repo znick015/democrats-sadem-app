@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
 import { supabase } from './lib/supabase';
+console.log("Status da Chave:", import.meta.env.VITE_SUPABASE_ANON_KEY ? "Carregada!" : "FALHOU - Undefined");
 
 // Interfaces para o TypeScript
 interface News {
