@@ -16,7 +16,7 @@ export interface PhoneViewportEvent {
   layoutWidth: number;
 }
 
-export interface BridgeResponse<T = Record<string, unknown>> {
+export interface BridgeResponse {
   type: string;
   requestId: string;
   ok?: boolean;

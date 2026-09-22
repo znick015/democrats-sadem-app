@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { bridgeApi, PhoneLocalesEvent } from './lib/bridge';
 import ptBR from './locales/pt-BR.json';
 import en from './locales/en.json';
