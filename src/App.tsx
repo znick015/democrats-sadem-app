@@ -25,7 +25,6 @@ export default function App() {
   const [news, setNews] = useState<News[]>([]);
   const [events, setEvents] = useState<Event[]>([]);
   const [isAdmin, setIsAdmin] = useState(false);
-  const [ifruitUser, setIfruitUser] = useState<string | null>(null);
   const [loading, setLoading] = useState(true);
 
   // Estados para os formulários do Admin
@@ -37,8 +36,7 @@ export default function App() {
       // 1. Simular ou buscar o usuário do iFruit
       // No jogo real, você usaria o bridge para pegar o account name.
       // Aqui, vamos simular a Aitana para você conseguir testar o painel.
-      const currentUser = 'Aitana_Soler'; 
-      setIfruitUser(currentUser);
+      const currentUser = 'Aitana_Soler';
 
       // 2. Verificar se o usuário é administrador no Supabase
       const { data: adminData } = await supabase
