@@ -1,0 +1,45 @@
+{
+  "appName": "SADEM",
+  "partyName": "Partido Democrata de San Andreas",
+  "slogan": "Avançar San Andreas com integridade e união.",
+  "tabs": {
+    "news": "Notícias",
+    "events": "Eventos",
+    "donate": "Doar",
+    "join": "Filiação"
+  },
+  "news": {
+    "title": "Comunicados Oficiais",
+    "article1_tag": "12/09/2026 • Comunicado",
+    "article1_title": "Reorganização do Comitê Geral em Los Santos",
+    "article1_desc": "Sob a liderança de Aitana Soler, o partido abre novas diretrizes para integrar líderes comunitários e pré-candidatos.",
+    "article2_tag": "08/09/2026 • Proposta",
+    "article2_title": "Plano de Mobilidade Urbana e Incentivo Local",
+    "article2_desc": "A bancada democrata protocolou estudos preliminares com foco em pequenas empresas e segurança viária nos distritos centrais."
+  },
+  "events": {
+    "title": "Agenda de Eventos",
+    "event1_title": "Encontro Aberto com Moradores",
+    "event1_place": "Hawick Avenue, Burton • 19:30",
+    "event1_desc": "Diálogo aberto sobre transparência pública, segurança e recolha de propostas comunitárias com a executiva partidária.",
+    "setWaypoint": "Marcar no GPS",
+    "waypointSet": "GPS Atualizado!",
+    "failedWaypoint": "Erro ao atualizar GPS"
+  },
+  "donations": {
+    "title": "Fundo de Campanha",
+    "desc": "Ajude a financiar a estrutura de eventos, material de campanha e ações comunitárias em Los Santos.",
+    "selectAmount": "Selecione a quantia:",
+    "btnPay": "Contribuir via iFruit Pay",
+    "payInitiated": "Janela do iFruit Pay aberta. Conclua no celular.",
+    "payFailed": "Não foi possível abrir o pagamento."
+  },
+  "join": {
+    "title": "Faça Parte da Mudança",
+    "chair": "Party Chair:",
+    "chairName": "Aitana Soler",
+    "desc": "Junte-se ao nosso diretório para participar das primárias partidárias, atuar na redação de projetos legislativos ou coordenar bases distritais.",
+    "copyDiscord": "Copiar Convite do Discord",
+    "copied": "Convite copiado para a área de transferência!"
+  }
+}

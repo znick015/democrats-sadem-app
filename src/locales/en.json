@@ -1,0 +1,45 @@
+{
+  "appName": "SADEM",
+  "partyName": "San Andreas Democratic Party",
+  "slogan": "Moving San Andreas forward with integrity and unity.",
+  "tabs": {
+    "news": "News",
+    "events": "Events",
+    "donate": "Donate",
+    "join": "Get Involved"
+  },
+  "news": {
+    "title": "Official Statements",
+    "article1_tag": "09/12/2026 • Press Release",
+    "article1_title": "Central Committee Restructuring in Los Santos",
+    "article1_desc": "Under the leadership of Aitana Soler, the party sets new guidelines to integrate community leaders and upcoming candidates.",
+    "article2_tag": "09/08/2026 • Policy",
+    "article2_title": "Urban Transit and Small Business Support Plan",
+    "article2_desc": "Democratic officials have submitted initial policy proposals focusing on small business grants and municipal road safety."
+  },
+  "events": {
+    "title": "Event Schedule",
+    "event1_title": "District Open Town Hall",
+    "event1_place": "Hawick Avenue, Burton • 7:30 PM",
+    "event1_desc": "Open public forum on government transparency, security, and collecting community feedback with party leadership.",
+    "setWaypoint": "Set GPS Pin",
+    "waypointSet": "GPS Updated!",
+    "failedWaypoint": "Could not update GPS"
+  },
+  "donations": {
+    "title": "Campaign Fund",
+    "desc": "Help support public rallies, campaign outreach, and local grassroots programs across Los Santos.",
+    "selectAmount": "Select an amount:",
+    "btnPay": "Contribute via iFruit Pay",
+    "payInitiated": "iFruit Pay sheet opened. Please confirm on screen.",
+    "payFailed": "Unable to initiate payment."
+  },
+  "join": {
+    "title": "Join the Movement",
+    "chair": "Party Chair:",
+    "chairName": "Aitana Soler",
+    "desc": "Join our committee to participate in upcoming primaries, assist in legislative drafting, or organize district community events.",
+    "copyDiscord": "Copy Discord Invite",
+    "copied": "Discord invite copied to clipboard!"
+  }
+}
